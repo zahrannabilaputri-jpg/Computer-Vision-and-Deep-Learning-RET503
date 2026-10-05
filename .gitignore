@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-.ipynb_checkpoints/
-.DS_Store
-# bobot penuh tiap run (45 MB per file) tidak di-upload; hanya model terbaik fp16 yang disimpan
-models/resnet18_*_s*.pt
