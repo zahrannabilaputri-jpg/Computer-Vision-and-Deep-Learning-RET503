@@ -2,7 +2,7 @@
 # Transfer Learning ResNet-18 untuk Klasifikasi Objek Basket (backboard, ball, rim, latar)
 
 Tugas RET503 Computer Vision and Deep Learning: Transfer Learning dan Fine-Tuning.
-Penulis: **(isi nama dan NIM)**. Proyek: penglihatan robot MicroDuck.
+Penulis: **(Zahra Nabila Putri dan 4222401028)**. Proyek: penglihatan robot MicroDuck.
 
 **Model:** ResNet-18 pretrained ImageNet (torchvision). **Mode yang dibandingkan:** `feature`, `partial`, dan `scratch`.
 
