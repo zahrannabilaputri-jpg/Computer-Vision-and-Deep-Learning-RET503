@@ -1,0 +1,7 @@
+torch
+torchvision
+pandas
+numpy
+matplotlib
+pillow
+# opencv-python   # hanya dibutuhkan untuk: python scripts/predict.py --webcam 0
